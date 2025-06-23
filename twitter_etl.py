@@ -7,7 +7,7 @@ import s3fs
 
 def run_twitter_etl():
         # Define your Twitter API credentials
-    apikey="fb7318f7402b47e0bbf86697545b5f9c"
+    apikey=""
 
     url = "https://api.twitterapi.io/twitter"
 
